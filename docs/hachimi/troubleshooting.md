@@ -13,14 +13,15 @@
 ### Physics (hair, clothing, etc.) are stiff when running at 60+ FPS
 Change the "Physics update mode" setting to "Mode60FPS". This setting is available in the Config Editor in the "Gameplay" tab.
 
-### Corrupted textures or text 
+### Corrupted/jumbled textures or text 
 
 If you are playing the **Global** version and accidentally installed translations **not specicially made for Global**, you will see corrupted text and images.  
 To fix this, open the Hachimi overlay with the `Right Arrow` key, go to the `Config Editor` and enable `Disable translations`, then restart the game.
 
-If you are playing the **JP** version, update your translations. Your source might be out of date, ask its maintainers.
-If this doesn't help, you might still be using an old source. Open the Menu and run the `First Time Setup` again.  
-<small>If it's close to a game update, it's likely source maintainers will be working on it. Please check if they're already aware before bothering them.</small>
+If you are playing the **JP** version, update your translations from the menu.
+Your translation source might also be out of date, especially afer a game update. Just wait for an update in that case.  
+If this doesn't help, you might still be using an old source from the original Hachimi. Open the Menu and run the `First Time Setup` again.  
+<small>If it's close to a game update, it's likely source maintainers will be working on it. Please check if they're already aware before bothering them.</small>  
 
 ### Something isn't translated
 Translations are provided by volunteers in the community offering up their time. Many things are not yet done. Check in with your chosen translation source and try to support its translators.
