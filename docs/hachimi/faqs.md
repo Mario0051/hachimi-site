@@ -47,6 +47,12 @@ These are modes defined internally by the game, and not implemented by Hachimi. 
 - `Mode60FPS` seems to restore some physics movements when increasing framerate, but can still be a little buggy sometimes.
 - Both `SkipFrame` modes are unknown but seem to be broken.
 
-## How do I update the game or Hachimi on Android?
+## How do I update on Android?
+### Game / Hachimi
 Follow the [install steps](getting-started-jp.md#android) from step 4.
-You don't have to import the key again.
+You don't have to import the key again. When updating Hachimi, you can just reinstall the current game version if you still have the file(s).
+### UmaPatcher
+1. If you haven't done it before, Settings -> Export signing key.
+1. Uninstall UmaPatcher.
+1. Download & install the latest UmaPatcher.
+1. Settings -> Import signing key.
