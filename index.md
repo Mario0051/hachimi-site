@@ -53,7 +53,8 @@ The latest Hachimi Edge version is automatically downloaded when patching, so yo
 ## Translations
 
 Translations are sourced from various community projects. Hachimi provides a framework to modify the game, it does not do any translation itself.
-Check out the sources in more detail on the [credits page](credits.md).
+Check out the sources in more detail on the [credits page](credits.md) for general info, progress, help, and getting in contact.
+Try to support the contributors working on them!
 
 ## Screenshots {#screenshots}
 
