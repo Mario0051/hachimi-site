@@ -63,11 +63,6 @@ If you already have save data from playing, make sure you have set up a Data Lin
 If you have the *unpatched* game installed, you must uninstall it first. The patched game can later be updated without uninstalling.
 :::
 
-::: warning
-Do not get your APK from APKPure, it's known to cause problems.
-The recommended source is [Qoopy](https://qoopy.leadrdrk.com/), use ID 6172.
-:::
-
 ::: tip
 On Xiaomi devices without HyperOS, try disabling MIUI Optimizations before installing.
 :::
@@ -81,6 +76,10 @@ On Xiaomi devices without HyperOS, try disabling MIUI Optimizations before insta
     This is currently only used by the JP version.
     - **Single APK file**: A full, fat APK file.
     - **XAPK file**: A ZIP file that contains the split APK files (with the extension renamed to XAPK).
+    ::: warning
+    Do not get your APK from APKPure, it's known to cause problems.
+    The recommended source is [Qoopy](https://qoopy.leadrdrk.com/), use ID 6172.
+    :::
 1. Open UmaPatcher, import the exported signing key if needed, and choose **Normal install**. Select the file(s) that you have prepared.
 1. Tap on Patch to start the patching and installation process.
 
