@@ -143,6 +143,6 @@ If you don't see it otherwise, Hachimi has not been installed correctly. Please 
 
 Tap on Next and choose your preferred translation source, then tap on Done to save your configuration and start the update check.
 
-Hachimi will now prompt you to download a new translation update, click on Yes to start downloading the translation files.
+If selected, Hachimi will now prompt you to download a new translation update, click on Yes to start downloading the files.
 
 You can return to this dialog later to change your translation source through the Hachimi menu.
