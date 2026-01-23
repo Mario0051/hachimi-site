@@ -71,18 +71,15 @@ On Xiaomi devices without HyperOS, try disabling MIUI Optimizations before insta
 You can also try the Shizuku option further down.
 :::
 
-1. If you used UmaPatcher before, open its settings page and **export the signing key somewhere safe**.
+1. If you used non-Edge UmaPatcher before, open its settings page and **export the signing key somewhere safe**.
 1. Uninstall the original game **if you have not patched it before using either UmaPatcher version**.
 1. Download and install the latest version of [UmaPatcher Edge](https://github.com/kairusds/UmaPatcher-Edge/releases/latest/download/app-release.apk).
-1. Prepare an installation package for the game, which can be:
-    - **Split APK files:** A base APK file and one of the split config APKs (config.arm64_v8a, config.armeabi-v7a, etc.),
-      choose only one split config that's suitable for your device.
-      This is currently only used by the JP version.
-    - **Single APK file**: A full, fat APK file.
-    - **XAPK file**: A ZIP file that contains the split APK files (with the extension renamed to XAPK).
+1. Download the game installation package. Supported formats are:
+    - **Split APK files:** A base APK plus device-dependent modular APKs.
+    - **Single APK file**: A full APK combining all split APKs. Deprecated.
+    - **XAPK file**: A renamed ZIP archive of the split APK files.
     ::: warning
-    Do not get your APK from APKPure, it's known to cause problems.
-    The recommended source is [Qoopy](https://qoopy.leadrdrk.com/), use ID 6172.
+    APKPure is known to cause problems. The recommended source is [Qoopy](https://qoopy.leadrdrk.com/), use ID 6172.
     :::
 1. Open UmaPatcher, import the exported signing key if needed, and choose **Normal install**. Select the file(s) that you have prepared.
 1. Tap on Patch to start the patching and installation process.
